@@ -7,3 +7,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080?type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20918157
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080?type=tcp#%3E%3E@V2rayNG3::XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388?type=tcp#%F0%9F%87%AB%F0%9F%87%B7Join+Telegram:@Farah_VPN%F0%9F%87%AB%F0%9F%87%B7
+vless://3bed628b-0214-4856-93e5-a68bb80b2735@tr-play.mobileemdad.top:42542?encryption=none&type=tcp&headerType=http&host=vasmtgglobals.comuter&path=/&security=none#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20New
