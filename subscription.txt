@@ -17,3 +17,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwRk5OOWpLZThqd0Q=@38.180.92.242:32245?type=tcp#%F0%9F%87%AB%F0%9F%87%B7%5Bopenproxylist.com%5Dss-FR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?type=tcp#%F0%9F%87%B3%F0%9F%87%B1NLD%C3%ACa%E2%80%94206
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.132:8080?type=tcp#%F0%9F%87%B3%F0%9F%87%B1NLD%C3%ACa%E2%80%94247
+vless://3bed628b-0214-4856-93e5-a68bb80b2735@tri.mobileemdad.top:42538?encryption=none&type=tcp&headerType=http&host=msedge.b.tlu.dl.delivery.mp.microsoft.com&path=/&security=none#%F0%9F%87%B9%F0%9F%87%B7Turkey%202
